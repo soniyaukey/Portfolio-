@@ -239,24 +239,7 @@ export const projects = [
 
 ---
 
-## 📜 License
-
-This repository is released under the **MIT License** — feel free to adapt it for your own work.
-
----
-
-## 🙋 Need help?
-
-If you want, I can:
-
-* scaffold the starter repo (Vite + React + Tailwind + R3F) with sample scenes and a projects gallery,
-* create the Home component with a sample R3F scene (floating shapes + particles),
-* implement the interactive 3D project card + expand modal.
-
-Tell me which part you'd like me to generate next and I'll create the code files directly.
-
----
-
 *Made with care — enjoy building your futuristic portfolio!*
+
 
 
